@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  app:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-10-13T18:19:40.52193556+02:00"
+    description: A Helm chart for Kubernetes
+    digest: da3a842e02554fb09c469ec4313cd651f2f0f7d152079be54a5672632c9ca124
+    name: app
+    type: application
+    urls:
+    - https://spiedre.github.io/helm-chart/app-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-10-13T18:19:40.521390193+02:00"
